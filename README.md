@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulrehman990
 - 👀 I’m interested in web anb mobile app development 
 - 🌱 I’m currently learning web and mobile app development
-- 💞️ I’m looking to collaborate on making effective websites and mobile app
+- 💞️ I’m looking to collaborate with other developers in making effective websites and mobile app
 - 📫 How to reach me mabdulf54@gmail.com
 
 <!---
